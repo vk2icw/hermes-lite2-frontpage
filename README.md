@@ -29,4 +29,3 @@ This project offers a simple, accessible landing page that allows anyone to acce
 ## Support
 
 For help, contact vk2icw (https://vk2icw.com).
-
